@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/Users/Ana/Documents/BitCoin")
+sys.path.append("/Users/Ana/Documents/GitHub/BlockChainPython")
 
 from Blockchain.Backend.core.block import Block
 from Blockchain.Backend.core.blockheader import BlockHeader
